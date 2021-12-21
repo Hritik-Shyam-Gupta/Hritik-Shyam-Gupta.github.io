@@ -15,7 +15,9 @@ I'm an enthusiastic and ambitious person for my goals and pusposes and I’m pas
 
 👨‍💻  I am passionate about Web Development, Web3.0, Blockchain, Machine Learning, Data Science & other new stuffs.</br>
 
+<p align="centre">
   ![Me Coding](/images/Coding.png)
+</p>
 
 Education 
 ===============
