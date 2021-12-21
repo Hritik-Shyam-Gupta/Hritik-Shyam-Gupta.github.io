@@ -9,6 +9,7 @@ I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>
 <p>
     My career goal is developing software, but my life goal is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 <br>
+<br>
 
 I'm an enthusiastic and ambitious person for my goals and pusposes and I’m passionate about building tools to help people save time and do more with their lives. I enjoys reading and watching intellectual as well as life based content that drives my mind. I like to associate with new people and seek new learnings from them.
 
@@ -71,10 +72,11 @@ Tech I'm Familiar with
 Experience
 ===============
 ## Summer Intern at Genisup India Pvt. Ltd.
- <p><b> <h3>Note-Taking Web Application Project</h3></> <br>
+  <p><b> <h3>Note-Taking Web Application Project</h3></b><br>
 06/2021 - 08/2021, <br>
  - Build a Note-Taking web app, similar to Evernote, using React.js and Firebase. <br>
  - Lead the Project by working on the backend, and React components in a team of 5. <br>
+    <br>
   This project can be used daily as a note-taking application, to write notes and To-do lists. <br>
      
   Project link : https://github.com/Hritik-Shyam-Gupta/Note-Taking-App-Project <br>
@@ -86,14 +88,15 @@ Experience
    <p> <b><h3> Metvy </h3><b><br>
 01/2021 - 02/2021, <br>
 - Metvy is a Tech start-up building a platform for more interactive networking of like-minds among the people of the same vicinity. Our team managed to bring users to the application and contributed to optimization and improvement in the App. <br>
+     <br>
 - Studied and presented Gamification and SWOT Analysis reports of the App. <br>
        </p>
 
- ---
+---
       
-       
 Projects
 ===============
+     
 ## Character Certificate Generator website (11/2021)
        
 - Built a Character certificate generator website for college staff members to automate their work. Project uses PHP, HTML, CSS, for the website and MySQL for Database. <br>
@@ -104,11 +107,9 @@ Projects
        
 - Built and designed the frontend of the website using HTML5, CSS3, Bootstrap, and integration using JavaScript and PHP (Laravel) backend in a team of 3. <br>
 - Website Link - http://300corp.in/ <br>
-       
-       
+            
 ---
-      
-       
+          
 Hobbies & Interest
 ===============
 - Coding
