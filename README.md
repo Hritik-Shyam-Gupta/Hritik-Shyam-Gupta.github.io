@@ -1,8 +1,11 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Hritik!](https://Hritik-Shyam-Gupta.github.io)
-<p align="center">Welcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>.</p>
+# Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="29px">, I'm Hritik!
+<p align="center">Welcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+</br> I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>.</p>
+
 
 <p>
     My career goal is developing software, but my life goal is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
+    
 
 I'm an enthusiastic and ambitious person for my goals and pusposes and I’m passionate about building tools to help people save time and do more with their lives. I enjoys reading and watching intellectual as well as life based content that drives my mind. I like to associate with new people and seek new learnings from them.
 
