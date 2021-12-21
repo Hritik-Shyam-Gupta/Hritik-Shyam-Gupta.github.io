@@ -85,12 +85,12 @@ Experience
      
 ## Product Analytics and Engagement Intern
     
-   <p> <b><h3> Metvy </h3><b><br>
+   <p> <b><h3> Metvy </h3></b><br>
 01/2021 - 02/2021, <br>
 - Metvy is a Tech start-up building a platform for more interactive networking of like-minds among the people of the same vicinity. Our team managed to bring users to the application and contributed to optimization and improvement in the App. <br>
      <br>
 - Studied and presented Gamification and SWOT Analysis reports of the App. <br>
-       </p>
+       </p> <br>
 
 ---
       
