@@ -28,7 +28,7 @@ I'm an enthusiastic and ambitious person for my goals and pusposes and I’m pas
 Education 
 ===============
 - Bachelor's Degree in Electrical Engineering with specilaization in Computer Science <br>
-<b>ayalbagh Educational Institute<b> <br> (2019 - 2023)
+<b>Dayalbagh Educational Institute<b> <br> (2019 - 2023)
 
 
 - Bachlor in Science in Programmiing and Data Science <br>
