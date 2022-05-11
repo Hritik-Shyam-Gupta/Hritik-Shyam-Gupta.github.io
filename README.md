@@ -3,24 +3,25 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
 I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>.</p>
 
-
+<p align=centre>
   ![Me Coding](/images/Coding.png)
+</p>
 
 <p>
     My career goal is developing software, but my life goal is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 <br>
 <br>
 
-I'm an enthusiastic and ambitious person for my goals and pusposes and I’m passionate about building tools to help people save time and do more with their lives. I enjoys reading and watching intellectual as well as life based content that drives my mind. I like to associate with new people and seek new learnings from them.
+I'm an enthusiastic and ambitious person for my goals and pusposes and I’m passionate about building tools to help people save time and do more with their lives. I enjoys reading and watching intellectual as well as life based content that drives my mind. I like to associate with new people and seek new learnings and life-lessons from them.
 
 </p>
 
 ## About My Academic Interest 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electrical Engineering with specialization in Computer Science. <br>
+🎓 I’m an Open-Source enthusiast & a Junior Year Student pursuing my Bachelors in Electrical Engineering with specialization in Computer Science as a major. <br>
 
-🎓 Apart from my Engineering Major, I am pursuing Bachlor in Science in Programming and Data Science from **IIT Madras**. <br>
+🎓 Apart from my Engineering Major, I am pursuing Bachelor of Science in **Programming and Data Science** from **IIT Madras**. <br>
 
-👨‍💻  I am passionate about Web Development, Web3.0, Blockchain, Machine Learning, Data Science & other new stuffs.<br>
+👨‍💻  I am passionate about Web Development, Software Development Web3.0, Blockchain, Machine Learning, Data Science & other new stuffs.<br>
 
 ---
 
@@ -55,7 +56,7 @@ Tech I'm Familiar with
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
@@ -71,6 +72,25 @@ Tech I'm Familiar with
     
 Experience
 ===============
+  
+## Project Intern at IIT Kanpur
+  
+  <p>
+    <b> <h3> Web Development and Robotics Project</h3></b><br>
+    04/2022 - Present, <br>
+    
+    - Working on developing a Web-application for cancer samples data visualization.
+    - Working and observing on the Robotics project Husky which is a DRDO Project.
+    
+  </p>
+
+## GirlScript Summer of Code (GSSoC'22) Open-Source Contributor
+    
+   <p> 
+03/2022 - present <br>
+- Working on Frontend Development projects using ReactJS and other frontend Library.
+       </p> <br>
+  
 ## Summer Intern at Genisup India Pvt. Ltd.
   <p><b> <h3>Note-Taking Web Application Project</h3></b><br>
 06/2021 - 08/2021, <br>
@@ -82,7 +102,8 @@ Experience
   Project link : https://github.com/Hritik-Shyam-Gupta/Note-Taking-App-Project <br>
     </p>   
  
-     
+
+  
 ## Product Analytics and Engagement Intern
     
    <p> <b><h3> Metvy </h3></b><br>
@@ -96,7 +117,13 @@ Experience
       
 Projects
 ===============
-     
+
+## User data gathering Web application using React (01/2022)
+       
+- Built a create-react-app for user data gathering using an API call which gets the user data onto our application. 
+ <br>
+  
+  
 ## Character Certificate Generator website (11/2021)
        
 - Built a Character certificate generator website for college staff members to automate their work. Project uses PHP, HTML, CSS, for the website and MySQL for Database. <br>
