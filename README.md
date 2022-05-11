@@ -3,9 +3,9 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
 I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>.</p>
 
-<p align=centre>
+
   ![Me Coding](/images/Coding.png)
-</p>
+
 
 <p>
     My career goal is developing software, but my life goal is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
