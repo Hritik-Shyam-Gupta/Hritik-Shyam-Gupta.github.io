@@ -41,7 +41,7 @@ Other Education
 ===============
  
 - Bachlor in Science (B.S.) in Programmiing and Data Science <br>
-<b>Indian Institute of Technology Madras<b> <br>(2021-Presnt)
+<b>Indian Institute of Technology Madras<b> <br>(2021-Presnt) | CGPA: 8.6/10
 
 ---
 
