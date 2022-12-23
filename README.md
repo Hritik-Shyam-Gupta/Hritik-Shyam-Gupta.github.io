@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hritik!
+# Hey 👋, I'm Hritik!
 <p align="center">Welcome to my page! 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
 I'm a  Full Stack Web Developer, Python Developer, An aspiring Data Scientist/Engineer and an Ambitious Learner from <b>Agra, India</b>.</p>
